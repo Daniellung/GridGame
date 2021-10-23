@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Workspace/GridGame/GridGame/GridGame/Content/highlightedSquare.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/highlightedSquare.xnb","TextureProcessor","Texture2DContent",2723,16469,0.1178635
+"D:/Workspace/GridGame/GridGame/GridGame/Content/LoadGame.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/LoadGame.xnb","TextureProcessor","Texture2DContent",15664,200085,0.1257655
+"D:/Workspace/GridGame/GridGame/GridGame/Content/LoadGameHovered.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/LoadGameHovered.xnb","TextureProcessor","Texture2DContent",18015,200085,0.12142
+"D:/Workspace/GridGame/GridGame/GridGame/Content/map.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/map.xnb","TextureProcessor","Texture2DContent",10926,8294485,0.3217505
+"D:/Workspace/GridGame/GridGame/GridGame/Content/NewGame.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/NewGame.xnb","TextureProcessor","Texture2DContent",15105,200085,0.0086318
+"D:/Workspace/GridGame/GridGame/GridGame/Content/NewGameHovered.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/NewGameHovered.xnb","TextureProcessor","Texture2DContent",17356,200085,0.0086832
+"D:/Workspace/GridGame/GridGame/GridGame/Content/Options.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/Options.xnb","TextureProcessor","Texture2DContent",13335,200085,0.0102605
+"D:/Workspace/GridGame/GridGame/GridGame/Content/OptionsHovered.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/OptionsHovered.xnb","TextureProcessor","Texture2DContent",15863,200085,0.0089453
+"D:/Workspace/GridGame/GridGame/GridGame/Content/OverlayEnemy.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/OverlayEnemy.xnb","TextureProcessor","Texture2DContent",1963,16469,0.124633
+"D:/Workspace/GridGame/GridGame/GridGame/Content/OverlayMove.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/OverlayMove.xnb","TextureProcessor","Texture2DContent",2139,16469,0.0024096
+"D:/Workspace/GridGame/GridGame/GridGame/Content/OverlayRange.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/OverlayRange.xnb","TextureProcessor","Texture2DContent",2399,16469,0.1127484
+"D:/Workspace/GridGame/GridGame/GridGame/Content/player.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",4008,16469,0.1212225
+"D:/Workspace/GridGame/GridGame/GridGame/Content/Quit.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/Quit.xnb","TextureProcessor","Texture2DContent",10326,200085,0.008884
+"D:/Workspace/GridGame/GridGame/GridGame/Content/QuitHovered.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/QuitHovered.xnb","TextureProcessor","Texture2DContent",12703,200085,0.0082212
+"D:/Workspace/GridGame/GridGame/GridGame/Content/StartMenu.png","D:/Workspace/GridGame/GridGame/GridGame/Content/bin/DesktopGL/Content/StartMenu.xnb","TextureProcessor","Texture2DContent",117345,8294485,0.3410261

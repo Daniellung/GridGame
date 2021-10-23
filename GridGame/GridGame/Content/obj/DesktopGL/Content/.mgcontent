@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/highlightedSquare.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/LoadGame.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/LoadGameHovered.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/map.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/NewGame.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/NewGameHovered.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/Options.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/OptionsHovered.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/OverlayEnemy.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/OverlayMove.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/OverlayRange.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/player.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/Quit.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/QuitHovered.png</File>
+    <File>D:/Workspace/GridGame/GridGame/GridGame/Content/StartMenu.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
